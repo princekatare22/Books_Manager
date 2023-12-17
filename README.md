@@ -12,7 +12,7 @@
 <ol>
 <li> Download the project in your local machine --> https://github.com/princekatare22/books_manage.git</li>
 <li> In the terminal, run command <b> go mod tidy <b></li>
-<li> Run the project using command <b> go run ./main.go <b></li> 
+<li> Run the project using command <b> go run .\main.go <b></li> 
 </ol>
 
 <h2>Postman Collections</h2>
