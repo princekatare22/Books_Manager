@@ -16,7 +16,7 @@
 </ol>
 
 <h2>Sequence Daigram</h2>
-<img src = "https://github.com/princekatare22/Books_Manager/assets/75197980/bf126fbd-366e-4f7d-8754-3bd88d521071">
+<img src = "https://drive.google.com/file/d/1NUjD7jwVyBANqE9BD7SRE1u-pzgkEuEv/view?usp=drive_link">
 
 <h2>Postman Collections</h2>
 <h3>Create()</h3>
