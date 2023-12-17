@@ -16,7 +16,7 @@
 </ol>
 
 <h2>Schema Daigram</h2>
-<img src = "[https://github.com/princekatare22/Books_Manager/assets/75197980/1d97b74b-2eaa-4260-908b-de7e139dd414](https://github.com/princekatare22/Books_Manager/assets/75197980/5fc77d05-86e3-451a-a029-caa03060a90e)">
+ <img src = "https://github.com/princekatare22/Books_Manager/assets/75197980/5fc77d05-86e3-451a-a029-caa03060a90e">
 
 
 <h2>Postman Collections</h2>
