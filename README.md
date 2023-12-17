@@ -1,6 +1,6 @@
 <h1>Book-Manager</h1>
 
-<h2>The Book Manager API is Book Management API where the following operations are implementd,</h2>
+<h2>The Book Manager API is Book Management API where the following operations are implemented,</h2>
 <ul>
 <li> Create()  : if new book are available they can be inserted into the database with the name of the book,the price and its genre.</li>
 <li> Update()  : the attribute corresponding to the  book can be updated to new values.</li>
@@ -10,7 +10,7 @@
 
 <h2>The project can be run using the following steps</h2>
 <ol>
-<li> Download the project in yur local machine --></li>
+<li> Download the project in your local machine --></li>
 <li> In the terminal run command <b> go mod tidy <b></li>
 <li> Run the project using command <b> go run ./main.go <b></li> 
 </ol>
