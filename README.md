@@ -10,7 +10,7 @@
 
 <h2>Run the project using the following steps</h2>
 <ol>
-<li> Download the project in yur local machine --></li>
+<li> Download the project in yur local machine --> https://github.com/princekatare22/books_manage.git</li>
 <li> In the terminal, run command <b> go mod tidy <b></li>
 <li> Run the project using command <b> go run ./main.go <b></li> 
 </ol>
