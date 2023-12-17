@@ -15,15 +15,15 @@
 <li> Run the project using command <b> go run ./main.go <b></li> 
 </ol>
 
-<h2>--- Postman Collections ---</h2>
+<h2>Postman Collections</h2>
 <h3>Create()</h3>
 <img src = "https://github.com/princekatare22/Books_Manager/assets/75197980/9c7bbcc8-2f50-40b3-ba44-2a0c95d37ee4">
 <h3>GetByID()</h3>
-![postman_page-0002](https://github.com/princekatare22/Books_Manager/assets/75197980/608a0d68-1a27-435e-8391-a1c7421f6380)
+<img src = "https://github.com/princekatare22/Books_Manager/assets/75197980/608a0d68-1a27-435e-8391-a1c7421f6380">
 <h3>Update()</h3>
-![postman_page-0003](https://github.com/princekatare22/Books_Manager/assets/75197980/30bdb675-fe67-4f09-b8af-9e9655b17834)
+<img src = "https://github.com/princekatare22/Books_Manager/assets/75197980/30bdb675-fe67-4f09-b8af-9e9655b17834">
 <h3>Delete()</h3>
-![postman_page-0004](https://github.com/princekatare22/Books_Manager/assets/75197980/1f63bb4d-6b49-4396-b799-9e53a944d4e1)
+<img src = "https://github.com/princekatare22/Books_Manager/assets/75197980/1f63bb4d-6b49-4396-b799-9e53a944d4e1">
 
 
 
