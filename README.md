@@ -17,7 +17,7 @@
 
 <h2>--- Postman Collections ---</h2>
 <h3>Create()</h3>
-![postman_page-0001](https://github.com/princekatare22/Books_Manager/assets/75197980/9c7bbcc8-2f50-40b3-ba44-2a0c95d37ee4)
+<img src = "https://github.com/princekatare22/Books_Manager/assets/75197980/9c7bbcc8-2f50-40b3-ba44-2a0c95d37ee4">
 <h3>GetByID()</h3>
 ![postman_page-0002](https://github.com/princekatare22/Books_Manager/assets/75197980/608a0d68-1a27-435e-8391-a1c7421f6380)
 <h3>Update()</h3>
