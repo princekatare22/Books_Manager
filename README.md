@@ -15,7 +15,7 @@
 <li> Run the project using command <b> go run .\main.go <b></li> 
 </ol>
 
-h2>Schema Daigram</h2>
+<h2>Schema Daigram</h2>
 <img src = "https://github.com/princekatare22/Books_Manager/assets/75197980/1d97b74b-2eaa-4260-908b-de7e139dd414">
 
 <h2>Postman Collections</h2>
